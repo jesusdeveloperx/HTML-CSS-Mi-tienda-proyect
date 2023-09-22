@@ -1,0 +1,112 @@
+
+*{
+    font-size: small;
+    list-style: none;
+    text-decoration: none;
+    padding: 0%;
+    margin: 0%;
+}
+header{
+    
+    padding: 0%;
+    margin: 0%;
+    height: 10vh;
+    width: 100vw;
+    background-color: rgb(255, 255, 255);
+    display: block;
+    
+    
+}
+
+.titulo{
+    display: flex;
+    justify-content: center;
+
+}
+h1{
+    display: flex;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+}
+.lista{
+    display: flex;
+}
+
+.search{
+    display: flex ;
+    justify-content: flex-end;
+    
+    
+}
+aside{
+    position: absolute;
+    padding-left: 20px;
+}
+
+.sections{
+    width: 150px;
+    
+} 
+.sectionoptions {
+    width: 150px;
+}
+.genero{
+    display: flex;
+    justify-content: space-around;
+    width: 120px;
+    display: flex;
+    justify-content: space-around;
+    
+    
+    
+}
+.lists{
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    
+}
+.promo{
+    color: orange;
+    
+}
+a{
+    color: black;
+}
+.logobuscar{
+    width: 25px;
+    height: 25px;
+}
+.buton1{
+    border-style: hidden;
+    border-bottom-style: solid;
+   
+}
+img{
+    height: 450px;
+    width: 250px;
+}
+.productos{
+    padding-left: 80px;
+    padding-top: 100px;
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    
+}
+p{
+    display: flex;
+    justify-content: center;
+    padding-right: 30px;
+}
+input{
+    
+    margin-bottom: 10px;
+}
+strong{display: flex;
+justify-content: center;
+margin-right: 50px;
+}
+h1{
+    font-size: xx-large;
+}
