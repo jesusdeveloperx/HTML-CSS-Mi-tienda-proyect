@@ -110,3 +110,71 @@ margin-right: 50px;
 h1{
     font-size: xx-large;
 }
+footer{
+    width: 100vw;
+    height: 40vw;
+    
+}
+
+
+.email{
+    width: 100%;
+    border: none;
+    border-bottom: 1px solid;
+    padding-top: 10px;
+}
+.logophone{
+    width: 10px;
+    height: 10px;
+}
+
+
+
+.listfooter{
+    display: flex;
+}
+.linka{
+    color: blue;
+}
+.footer1{
+    width: 100%;
+   display: grid;
+   justify-content: center;
+   
+}
+.log{
+    width: 10px;
+    height: 10px;
+}
+.logphone{
+    width: 10px;
+    height: 10px;
+}
+.footer2{
+    
+    width: 100%;
+    height: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+.footer15{
+    width: 100%;
+    padding-bottom: 50px;
+    
+
+    display: grid;
+    justify-items: center;
+    padding-top: 20px;
+    
+}
+.footer3{
+    width: 100%;
+   height: 20%;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 200px;
+
+}
+footer{
+    padding-top: 50px;
+}
